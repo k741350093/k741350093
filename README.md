@@ -8,6 +8,7 @@ I am currently working on **GameValueTools**, a fan-made Roblox tools hub focuse
 
 Useful starting pages:
 
+- [GameValueTools resource page](./gamevaluetools-resources.md)
 - [AOTR codes](https://gamevaluetools.com/games/attack-on-titan-revolution/codes/)
 - [Sailor Piece codes](https://gamevaluetools.com/games/sailor-piece/codes/)
 - [RIVALS codes](https://gamevaluetools.com/games/rivals/codes/)
